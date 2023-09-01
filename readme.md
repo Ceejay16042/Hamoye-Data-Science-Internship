@@ -1,5 +1,6 @@
 # Hamoye Data Science Internship
 The following projects were carried during the phase of this 5months internship
+
 1.Python for machine learning
 + Getting familiar with various python tools used for numerical analysis, data cleaning, data wrangling and data visualization to ensure Quality data in Machine learning.
 2. Built a machine learning model to predict the Energy Efficiency of Buildings using Regression techniques in Machine learning.
